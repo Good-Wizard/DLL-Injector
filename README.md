@@ -2,7 +2,7 @@
 
 A Python-based GUI application for injecting DLLs into running processes on Windows. This tool is designed for educational purposes and should be used responsibly.
 
-![DLL Injector Screenshot](screenshot.png) <!-- Add a screenshot if available -->
+![DLL Injector Screenshot](Screenshot.png)
 
 ---
 
