@@ -9,11 +9,9 @@ A Python-based GUI application for injecting DLLs into running processes on Wind
 ## Table of Contents
 - [Features](#features)
 - [Prerequisites](#prerequisites)
-- [Installation](#installation)
 - [Usage](#usage)
 - [How It Works](#how-it-works)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
